@@ -17,4 +17,4 @@ User-agent: teoma
 
 Allow: /
 
-Sitemap: https://homeideas.akafour.com/sitemapx.xml
+Sitemap: https://homeideas.github.io/sitemapx.xml
