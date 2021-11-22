@@ -14,7 +14,6 @@ Allow: /
 User-agent: aolbuild
 Allow: /
 User-agent: teoma
-
 Allow: /
 
 Sitemap: https://homeideas.github.io/sitemapx.xml
